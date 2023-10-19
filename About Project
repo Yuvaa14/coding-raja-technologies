@@ -1,0 +1,39 @@
+
+
+Defination of Artificial intelligence 
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer system 
+some of applications of Artificial intelligence are
+Machine learning
+Natural language processing
+Deep learning
+Computer vision
+Robotics
+Finance
+Self-driving car
+Marketing
+Pattern recognition
+Chatbot
+Uses of Artificial intelligence are
+Fraud detection
+image recognition
+speech recognition
+Father of Artificial intelligence
+John McCarthy is considered as the father of Artificial Intelligence. 
+John McCarthy was an American computer scientist.
+The term "artificial intelligence" was coined by him.
+Description: Develop a system that can detect and track objects of interest in video streams using deep learning.
+
+Steps:
+
+1.Data Collection: Gather a dataset of videos containing the objects you want to detect and track.
+2.Data Preprocessing: Extract video frames and annotate them with bounding boxes around objects.
+3.Model Selection: Choose an object detection model like YOLO (You Only Look Once) or Faster R-CNN.
+4.Model Training: Train the chosen model on the annotated frames to recognize objects.
+5.Real-time Detection: Implement the model to detect objects in real-time video streams.
+6.Object Tracking: Use techniques like Kalman filters or optical flow to track detected objects across frames.
+7.Visualization: Visualize the detected and tracked objects in the video.
+Tech Stack:
+
+Python
+Deep Learning frameworks (TensorFlow or PyTorch)
+Computer vision libraries (OpenCV)
