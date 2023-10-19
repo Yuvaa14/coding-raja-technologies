@@ -1,26 +1,29 @@
 
+DEFINITION OF ARITIFICIAL INTELLIGENCE :
+--> Artificial intelligence is the simulation of human intelligence processes by machines, especially computer system 
+APPLICATIONS OF ARTIFICIAL INTELLIGENCE:
+    --> Machine learning
+    --> Natural language processing
+    --> Deep learning
+    --> Computer vision
+    --> Robotics
+    --> Finance
+    --> Self-driving car
+    --> Marketing
+    --> Pattern recognition
+    --> Chatbot
+USES OF AI:
+     --> Fraud detection
+     --> image recognition
+     -->speech recognition
+FATHER O AI:
+     ---> "John McCarthy" is considered as the father of Artificial Intelligence. 
+     ---> "John McCarthy" was an American computer scientist.
+     ---> The term "artificial intelligence" was coined by him.
+                                                  TITLE OF THE PROJECT
+          NAME:Object detecting and tracking in videos....
+          DOMAIN:Arificial Intelligence...
 
-Defination of Artificial intelligence 
-Artificial intelligence is the simulation of human intelligence processes by machines, especially computer system 
-some of applications of Artificial intelligence are
-Machine learning
-Natural language processing
-Deep learning
-Computer vision
-Robotics
-Finance
-Self-driving car
-Marketing
-Pattern recognition
-Chatbot
-Uses of Artificial intelligence are
-Fraud detection
-image recognition
-speech recognition
-Father of Artificial intelligence
-John McCarthy is considered as the father of Artificial Intelligence. 
-John McCarthy was an American computer scientist.
-The term "artificial intelligence" was coined by him.
 Description: Develop a system that can detect and track objects of interest in video streams using deep learning.
 
 Steps:
@@ -33,7 +36,6 @@ Steps:
 6.Object Tracking: Use techniques like Kalman filters or optical flow to track detected objects across frames.
 7.Visualization: Visualize the detected and tracked objects in the video.
 Tech Stack:
-
-Python
-Deep Learning frameworks (TensorFlow or PyTorch)
-Computer vision libraries (OpenCV)
+   --> Python
+   --> Deep Learning frameworks (TensorFlow or PyTorch)
+   --> Computer vision libraries (OpenCV)
